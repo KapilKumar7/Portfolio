@@ -1,2 +1,2 @@
 # Portfolio-Website
-https://kapilkumar-portfolio.netlify.app/
+https://kapilkumar7.github.io/Portfolio/
