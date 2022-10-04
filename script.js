@@ -13,7 +13,7 @@ menuBtn.addEventListener("click", () => {
   menuBtn.classList.toggle("active");
   navigation.classList.toggle("active");
   if (c % 2 != 0) {
-    document.querySelector(".brand").innerHTML = "~>";
+    document.querySelector(".brand").innerHTML = "";
   } else {
     document.querySelector(".brand").innerHTML = "";
   }
